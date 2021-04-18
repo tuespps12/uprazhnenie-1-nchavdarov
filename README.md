@@ -24,6 +24,7 @@ Disk | 10 GB of storage space | 512GB SSD Team Group MS30
 Motherboard | - |  GIGABYTE B365M-H - GA-MB-B365M-H
 Power supply  | - |  750W Corsair CX750M
 Case  | - |  Deepcool MATREXX 30
+
 Общо: 1 405 лв.
 
 2. Adobe Premiere - бюджет 3000 лв. 
@@ -37,4 +38,5 @@ Disk | 8 GB HDD space| 500GB SSD Samsung 970 EVO Plus
 Power supply  | - |  850W Corsair RM850x
 Motherboard | - |  ASRock B365 Pro4
 Case  | - |  DeepCool MATREXX 55 V3
+
 Общо: 2 729 лв.
